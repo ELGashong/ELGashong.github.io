@@ -1,0 +1,32 @@
+    /* background settings */
+html{
+    background-color: grey;
+    font-size: small;
+    }
+
+    /* body settings */
+body{
+    background-color: white;
+    margin: auto 250px;
+    text-align: center;
+    padding: 25px 100px;
+    width: 700px;
+    margin: 25px auto;
+    border-radius: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    /* paraphraph settings */
+p{
+    margin:50px;font-family: sans-serif;
+    }
+
+#ImageFormatting{
+    width: 400px;
+    height: 200px;
+    }
+
+#QuizResultFormatting {
+    width: 250px;
+    height: 200px;
+}
+
