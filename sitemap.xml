@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding ="utf-8"?>
+
+<!--Add every URL that we want searchable-->
+<url>
+	<loc>
+		https://elgashong.github.io/
+	</loc>
+	<lastmod>2024-04-09</lastmod>
+	<changefrequency>weekly</changefrequency>
+	<priority>0.8</priority>
+</url>
+
+
